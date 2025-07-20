@@ -5,21 +5,6 @@
 </h1>
 
 
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:roopeshroyal34@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EE4C2C?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yata-rupesh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1s7PDnLosLWmlnAY7TNzl6Y_2Fro8gNj-/view?usp=sharing" 
-    target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FFE83D?style=for-the-badge&logo=readthedocs&logoColor=black" />
-  </a>
-</p>
-
 
 ---
 
@@ -39,6 +24,21 @@
 | **[TechVeda](https://tech-veda-fd-live.vercel.app/)** | 🚀 Full-stack EdTech platform with course builder, dynamic dashboards, payment gateway, and email verification. | [Visit →](https://tech-veda-fd-live.vercel.app/) |
 | **[Flyhigh Creations](https://flyhighcreations.com/)** | 🎨 Brand-first portfolio site focused on visual storytelling, elegant motion UI, and modern design principles. | [Visit →](https://flyhighcreations.com/) |
 | **[CPU Scheduler](https://sched-xpert.vercel.app/)** | ⏱️ Real-time CPU scheduling simulator with Gantt chart, performance metrics, interactive charts & explanation builder. | [Visit →](https://sched-xpert.vercel.app/) |
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:roopeshroyal34@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EE4C2C?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yata-rupesh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1s7PDnLosLWmlnAY7TNzl6Y_2Fro8gNj-/view?usp=sharing" 
+    target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FFE83D?style=for-the-badge&logo=readthedocs&logoColor=black" />
+  </a>
+</p>
 
 
 ### 📊 GitHub Insights
