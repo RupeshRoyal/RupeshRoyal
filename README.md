@@ -1,8 +1,11 @@
-<h1 align="center">👋 Hello, I'm Yata Rupesh</h1>
-<h3 align="center">Full-Stack Web Developer | MERN Stack | ServiceNow | AI Enthusiast</h3>
+<!-- 3D-styled GitHub README for Yata Rupesh -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yata+Rupesh;Full-Stack+MERN+Developer;ServiceNow+Certified;Building+Scalable+and+Modern+Web+Apps" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=118AB2&center=true&vCenter=true&width=480&lines=Bringing+design+and+function+into+life.;Scalable+Full-Stack+Solutions.;Creative%2C+Curious+and+Consistent." alt="Typing SVG" />
+  <img src="https://img.freepik.com/premium-photo/3d-modern-digital-glow-ui-code-background_849906-14556.jpg?w=1000" width="80%" alt="3D Code Theme Banner"/>
 </p>
 
 ---
@@ -10,67 +13,75 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EE4C2C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FFE83D?style=flat-square&logo=readthedocs&logoColor=black" />
+    <img src="https://img.shields.io/badge/Resume-FFE83D?style=for-the-badge&logo=readthedocs&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### ⚙️ Tech Stack
+### 🚀 Projects Showcase
 
-- 🌐 React, Tailwind CSS, JavaScript  
-- ⚙️ Node.js, Express, MongoDB  
-- 🔁 Redux Toolkit  
-- 🧪 Postman, GitHub, VS Code  
-- 🧠 ServiceNow Scripting & App Dev  
-
----
-
-### 🚀 Notable Projects
-
-- **TechVeda** – EdTech platform with full user workflows  
-- **Flyhigh Creations** – Portfolio-first, brand-driven design  
-- **CPU Scheduler** – Real-time Gantt and metrics with animations  
-- **ServiceNow Projects** – Real-world modules with scripting  
+| 🔧 Project | ⚡ Description |
+|-----------|----------------|
+| **TechVeda** | Full-stack EdTech platform with payments, dashboards, email verification |
+| **Flyhigh Creations** | Story-first design portfolio for a brand studio |
+| **CPU Scheduler** | Interactive scheduler with animations, Gantt chart, and metrics |
+| **ServiceNow Modules** | Application development scripts and real-world workflows |
 
 ---
 
-### 📊 GitHub Activity
+### ⚙️ Tech Stack I Use
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupeshyata&show_icons=true&theme=default&border_radius=10&hide=stars" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshyata&theme=default&border_radius=10" height="165px" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,tailwind,js,postman,git,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rupeshyata&show_icons=true&theme=vision-friendly-dark&border_radius=12" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshyata&theme=tokyonight&border_radius=12" height="165px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshyata&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshyata&layout=compact&theme=tokyonight&border_radius=12" />
 </p>
 
 ---
 
 ### 🎓 Certifications
 
-- ✅ ServiceNow Certified System Administrator  
-- ✅ ServiceNow Certified Application Developer  
-- 🥇 NCAT AIR 67 – Naukri Campus 2024  
+- 🛡️ ServiceNow Certified System Administrator – *ID: 2553086*
+- 🛠️ ServiceNow Certified Application Developer – *Issued: 2025*
+- 🏅 NCAT All India Rank 67 – Naukri Campus
 
 ---
 
-> “Stay curious. Code often. Build with purpose.”
+### ✨ Motto
+
+<p align="center"><b>
+💡 "Empowering ideas through code, curiosity, and creativity."
+</b></p>
+
+---
+
+### 🌀 3D Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rupeshyata/rupeshyata/output/github-contribution-grid-snake.svg" alt="3D Snake" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffe83d&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer"/>
 </p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/samples/github-contribution-grid-snake.svg" width="80%" />
-</p>
-
