@@ -22,15 +22,6 @@
 
 ---
 
-### 🚀 Projects Showcase
-
-| 🔧 Project | ⚡ Description |
-|-----------|----------------|
-| **TechVeda** | Full-stack EdTech platform with payments, dashboards, email verification |
-| **Flyhigh Creations** | Story-first design portfolio for a brand studio |
-| **CPU Scheduler** | Interactive scheduler with animations, Gantt chart, and metrics |
-
----
 
 ### ⚙️ Tech Stack I Use
 
@@ -39,6 +30,17 @@
 </p>
 
 ---
+
+### 🔥 Signature Projects
+
+> Powerful, production-ready apps combining frontend finesse and backend robustness.
+
+| 🔧 Project | ⚡ Description | 🔗 Live Link |
+|-----------|----------------|--------------|
+| **[TechVeda](https://your-techveda-link.com)** | 🚀 Full-stack EdTech platform with course builder, dynamic dashboards, payment gateway, and email verification. | [Visit →](https://your-techveda-link.com) |
+| **[Flyhigh Creations](https://your-flyhigh-link.com)** | 🎨 Brand-first portfolio site focused on visual storytelling, elegant motion UI, and modern design principles. | [Visit →](https://your-flyhigh-link.com) |
+| **[CPU Scheduler](https://your-cpu-scheduler-link.com)** | ⏱️ Real-time CPU scheduling simulator with Gantt chart, performance metrics, interactive charts & explanation builder. | [Visit →](https://your-cpu-scheduler-link.com) |
+
 
 ### 📊 GitHub Insights
 
