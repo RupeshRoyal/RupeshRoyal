@@ -7,7 +7,6 @@
 
 ---
 
-
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -22,7 +21,7 @@
     <img src="https://img.shields.io/badge/Resume-FFE83D?style=for-the-badge&logo=readthedocs&logoColor=black" />
   </a>
 </p>
-
+---
 
 ### ⚙️ Tech Stack I Use
 
