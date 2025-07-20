@@ -1,9 +1,10 @@
-<!-- 3D-styled GitHub README for Yata Rupesh -->
+<!-- 🚀 3D-styled GitHub README for Yata Rupesh -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yata+Rupesh;Full-Stack+MERN+Developer;Building+Scalable+and+Modern+Web+Apps" alt="Typing SVG" />
 </h1>
 
+---
 
 ### 🌐 Connect with Me
 
@@ -19,12 +20,15 @@
   </a>
 </p>
 
+---
 
 ### ⚙️ Tech Stack I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,tailwind,js,postman,git,vscode" />
 </p>
+
+---
 
 ### 🔥 Signature Projects
 
@@ -36,6 +40,7 @@
 | **[Flyhigh Creations](https://your-flyhigh-link.com)** | 🎨 Brand-first portfolio site focused on visual storytelling, elegant motion UI, and modern design principles. | [Visit →](https://your-flyhigh-link.com) |
 | **[CPU Scheduler](https://your-cpu-scheduler-link.com)** | ⏱️ Real-time CPU scheduling simulator with Gantt chart, performance metrics, interactive charts & explanation builder. | [Visit →](https://your-cpu-scheduler-link.com) |
 
+---
 
 ### 📊 GitHub Insights
 
@@ -48,9 +53,9 @@
 
 ### 🎓 Certifications
 
-- 🛡️ ServiceNow Certified System Administrator – *ID: 2553086*
-- 🛠️ ServiceNow Certified Application Developer – *Issued: 2025*
-- 🏅 NCAT All India Rank 67 – Naukri Campus
+- 🛡️ **ServiceNow Certified System Administrator** – *ID: 2553086*
+- 🛠️ **ServiceNow Certified Application Developer** – *Issued: 2025*
+- 🏅 **NCAT All India Rank 67** – *Naukri Campus 2024*
 
 ---
 
