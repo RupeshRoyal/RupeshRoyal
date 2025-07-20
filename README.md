@@ -1,12 +1,8 @@
 <!-- 3D-styled GitHub README for Yata Rupesh -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yata+Rupesh;Full-Stack+MERN+Developer;ServiceNow+Certified;Building+Scalable+and+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yata+Rupesh;Full-Stack+MERN+Developer;Building+Scalable+and+Modern+Web+Apps" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/3d-modern-digital-glow-ui-code-background_849906-14556.jpg?w=1000" width="80%" alt="3D Code Theme Banner"/>
-</p>
 
 ---
 
