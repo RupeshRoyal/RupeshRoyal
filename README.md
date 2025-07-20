@@ -3,6 +3,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yata+Rupesh;Full-Stack+MERN+Developer;Building+Scalable+and+Modern+Web+Apps" alt="Typing SVG" />
 </h1>
+
+
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -16,6 +18,8 @@
     <img src="https://img.shields.io/badge/Resume-FFE83D?style=for-the-badge&logo=readthedocs&logoColor=black" />
   </a>
 </p>
+
+
 ### ⚙️ Tech Stack I Use
 
 <p align="center">
