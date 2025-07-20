@@ -36,9 +36,9 @@
 
 | 🔧 Project | ⚡ Description | 🔗 Live Link |
 |-----------|----------------|--------------|
-| **[TechVeda](https://your-techveda-link.com)** | 🚀 Full-stack EdTech platform with course builder, dynamic dashboards, payment gateway, and email verification. | [Visit →](https://your-techveda-link.com) |
-| **[Flyhigh Creations](https://your-flyhigh-link.com)** | 🎨 Brand-first portfolio site focused on visual storytelling, elegant motion UI, and modern design principles. | [Visit →](https://your-flyhigh-link.com) |
-| **[CPU Scheduler](https://your-cpu-scheduler-link.com)** | ⏱️ Real-time CPU scheduling simulator with Gantt chart, performance metrics, interactive charts & explanation builder. | [Visit →](https://your-cpu-scheduler-link.com) |
+| **[TechVeda](https://tech-veda-fd-live.vercel.app/)** | 🚀 Full-stack EdTech platform with course builder, dynamic dashboards, payment gateway, and email verification. | [Visit →](https://tech-veda-fd-live.vercel.app/) |
+| **[Flyhigh Creations](https://flyhighcreations.com/)** | 🎨 Brand-first portfolio site focused on visual storytelling, elegant motion UI, and modern design principles. | [Visit →](https://flyhighcreations.com/) |
+| **[CPU Scheduler](https://sched-xpert.vercel.app/)** | ⏱️ Real-time CPU scheduling simulator with Gantt chart, performance metrics, interactive charts & explanation builder. | [Visit →](https://sched-xpert.vercel.app/) |
 
 ---
 
