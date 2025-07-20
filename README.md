@@ -25,7 +25,7 @@
 ### ⚙️ Tech Stack I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,tailwind,js,postman,git,github,vscode,cpp,vite,mysql,npm,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,tailwind,js,postman,cpp,vite,mysql,npm,bootstrap" />
 </p>
 
 ---
