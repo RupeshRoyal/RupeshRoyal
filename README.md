@@ -70,3 +70,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffe83d&height=100&section=footer"/>
 </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/samples/github-contribution-grid-snake.svg" width="80%" />
+</p>
+
