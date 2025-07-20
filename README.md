@@ -33,7 +33,6 @@
 | **TechVeda** | Full-stack EdTech platform with payments, dashboards, email verification |
 | **Flyhigh Creations** | Story-first design portfolio for a brand studio |
 | **CPU Scheduler** | Interactive scheduler with animations, Gantt chart, and metrics |
-| **ServiceNow Modules** | Application development scripts and real-world workflows |
 
 ---
 
@@ -48,12 +47,12 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupeshyata&show_icons=true&theme=vision-friendly-dark&border_radius=12" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshyata&theme=tokyonight&border_radius=12" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RupeshRoyal&show_icons=true&theme=vision-friendly-dark&border_radius=12" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshRoyal&theme=tokyonight&border_radius=12" height="165px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshyata&layout=compact&theme=tokyonight&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshRoyal&layout=compact&theme=tokyonight&border_radius=12" />
 </p>
 
 ---
@@ -77,7 +76,7 @@
 ### 🌀 3D Snake Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rupeshyata/rupeshyata/output/github-contribution-grid-snake.svg" alt="3D Snake" />
+  <img src="https://raw.githubusercontent.com/RupeshRoyal/RupeshRoyal/output/github-contribution-grid-snake.svg" alt="3D Snake" />
 </p>
 
 ---
