@@ -26,8 +26,6 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,tailwind,js,postman,git,vscode" />
 </p>
 
----
-
 ### 🔥 Signature Projects
 
 > Powerful, production-ready apps combining frontend finesse and backend robustness.
@@ -42,11 +40,7 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RupeshRoyal&show_icons=true&theme=vision-friendly-dark&border_radius=12" height="165px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshRoyal&theme=tokyonight&border_radius=12" height="165px" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshRoyal&layout=compact&theme=tokyonight&border_radius=12" />
 </p>
 
