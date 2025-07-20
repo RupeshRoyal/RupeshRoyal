@@ -7,13 +7,14 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:roopeshroyal34@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EE4C2C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="https://linkedin.com/in/yata-rupesh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://drive.google.com/file/d/1s7PDnLosLWmlnAY7TNzl6Y_2Fro8gNj-/view?usp=sharing" 
+    target="_blank">
     <img src="https://img.shields.io/badge/Resume-FFE83D?style=for-the-badge&logo=readthedocs&logoColor=black" />
   </a>
 </p>
@@ -51,8 +52,8 @@
 
 ### 🎓 Certifications
 
-- 🛡️ **ServiceNow Certified System Administrator** – *ID: 2553086*
-- 🛠️ **ServiceNow Certified Application Developer** – *Issued: 2025*
+- 🛡️ **ServiceNow Certified System Administrator** – *Issued: Apr 2025*
+- 🛠️ **ServiceNow Certified Application Developer** – *Issued: Apr 2025*
 - 🏅 **NCAT All India Rank 67** – *Naukri Campus 2024*
 
 ---
@@ -65,6 +66,6 @@
 
 ---
 
-<p align="center">
+<p align="">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer"/>
 </p>
