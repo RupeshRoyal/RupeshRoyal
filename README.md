@@ -1,10 +1,8 @@
 <h1 align="center">Hey 👋 I'm Rupesh Yata</h1>
-
-<h1 align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Building+Scalable+and+Modern+Web+Apps" alt="Typing SVG" />
-</h1>
+</h3>
 
----
 
 ### ⚙️ Tech Stack I Use
 
