@@ -46,8 +46,9 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshRoyal&theme=tokyonight&border_radius=12" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshRoyal&layout=compact&theme=tokyonight&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshRoyal&layout=compact&theme=tokyonight&border_radius=12" height="165px" />
 </p>
+
 
 ---
 
