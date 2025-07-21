@@ -4,7 +4,7 @@
 </h3>
 
 
-### ⚙️ Tech Stack I Use
+### ⚙️ Tech Stack & Tools I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,tailwind,js,postman,cpp,vite,mysql,npm,bootstrap" alt="Tech Stack" />
