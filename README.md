@@ -36,6 +36,9 @@
   <a href="https://drive.google.com/file/d/1s7PDnLosLWmlnAY7TNzl6Y_2Fro8gNj-/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FFE83D?style=for-the-badge&logo=readthedocs&logoColor=black" />
   </a>
+  <a href="https://leetcode.com/u/roopeshroyal34/" target="_blank">
+    <img src=" https://img.shields.io/badge/LeetCode-RupeshRoyal-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
