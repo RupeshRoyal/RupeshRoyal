@@ -56,8 +56,7 @@
 - 🛡️ **ServiceNow Certified System Administrator** – *Issued: Apr 2025*
 - 🛠️ **ServiceNow Certified Application Developer** – *Issued: Apr 2025*
 - 🏅 **NCAT All India Rank 67** – *Naukri Campus 2024*
-- 🌟 **Flyhigh Creations** – Designed and developed a brand-first portfolio website focused on visual storytelling, elegant motion UI, and modern design systems for a real-world creative studio.
-🔗 Visit Project → (**flyhighcreations.com**)
+- 🌟 **Flyhigh Creations** – Designed and developed a brand-first portfolio website 🔗 **[Visit link](https://flyhighcreations.com/)**
 
 ---
 
