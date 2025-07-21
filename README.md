@@ -37,8 +37,13 @@
     <img src="https://img.shields.io/badge/Resume-FFE83D?style=for-the-badge&logo=readthedocs&logoColor=black" />
   </a>
   <a href="https://leetcode.com/u/roopeshroyal34/" target="_blank">
-    <img src=" https://img.shields.io/badge/LeetCode-RupeshRoyal-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" />
   </a>
+  
+  <a href="https://x.com/rupesh_34?lang=en/" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+
 </p>
 
 ---
