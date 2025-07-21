@@ -1,5 +1,3 @@
-<!-- 🚀 3D-styled GitHub README for Yata Rupesh -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yata+Rupesh;Full-Stack+MERN+Developer;Building+Scalable+and+Modern+Web+Apps" alt="Typing SVG" />
 </h1>
@@ -45,7 +43,7 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshRoyal&theme=tokyonight&border_radius=12" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshRoyal&theme=tokyonight&border_radius=12" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshRoyal&layout=compact&theme=tokyonight&border_radius=12" height="180px" />
 </p>
 
