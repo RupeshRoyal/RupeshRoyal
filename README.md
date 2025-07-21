@@ -51,7 +51,7 @@
 
 ---
 
-### 🎓 Certifications
+### 🏆 Certifications & Achievements
 
 - 🛡️ **ServiceNow Certified System Administrator** – *Issued: Apr 2025*
 - 🛠️ **ServiceNow Certified Application Developer** – *Issued: Apr 2025*
